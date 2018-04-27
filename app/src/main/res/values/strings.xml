@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP Sample</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_message">Superb! Now we know how MVP works.</string>
+</resources>
